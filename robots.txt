@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pets.crabdance.com/sitemap.xml
+Sitemap: https://pets.crabdance.com/sitemap.html
